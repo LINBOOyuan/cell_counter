@@ -5,11 +5,7 @@
 **Update on 2018/11/24. Release newest version code, which fix some previous issues and also add support for new backbones and multi-gpu training. For previous code, please see in `previous` branch**  
 
 
-
 ckpt :放模型檔案
-
-
-
 
 
 
@@ -18,7 +14,6 @@ This is a PyTorch(0.4.1) implementation of [DeepLab-V3-Plus](https://arxiv.org/p
 can use Modified Aligned Xception and ResNet as backbone. Currently, we train DeepLab V3 Plus
 using Pascal VOC 2012, SBD and Cityscapes datasets.
 
-![Results](doc/results.png)
 
 
 ### Installation
